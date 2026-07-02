@@ -17,7 +17,7 @@ Key components
 | D1, D2, D3 – badge LEDs      | LED_D5.0mm (any color you want!)                                 | 3   |
 | R1, R2, R3 – LED resistors   | R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal – 330 Ω         | 3   |
 | R4 – buzzer resistor         | R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_P7.62mm_Horizontal – 220 Ω | 1   |
-
+| NFC TAG                      |  can be scanned to access your instagram, or send a message!     | 1   |
 ##  Images
 
 <table>
